@@ -1,4 +1,4 @@
-# Behavioral Design Patterns in [Project Name]
+# Behavioral Design Patterns 
 
 This repository contains examples of implementations of various behavioral design patterns in [Project Name]. Behavioral design patterns are a set of patterns used to effectively and flexibly manage behaviors between objects and classes.
 
